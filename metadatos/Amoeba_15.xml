@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Amoeba</folder>
+	<filename>Amoeba_15.png</filename>
+	<path>C:\Users\aleja\Downloads\archive\Amoeba\Amoeba_15.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>256</width>
+		<height>256</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Amoeba</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>65</xmin>
+			<ymin>64</ymin>
+			<xmax>201</xmax>
+			<ymax>183</ymax>
+		</bndbox>
+	</object>
+</annotation>
